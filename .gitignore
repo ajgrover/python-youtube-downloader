@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# PyInstaller / py2app
+build/
+dist/
+
+# Local FFmpeg binaries
+vendor/bin/
+
+# Logs and local configuration
+*.log
+.env
+.env.*
+!.env.example
+
+# macOS
+.DS_Store
+
+# Private signing material
+*.p12
+*.p8
+*.key
+*.pem
+*.mobileprovision
