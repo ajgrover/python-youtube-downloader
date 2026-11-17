@@ -19,6 +19,7 @@ vendor/bin/
 
 # macOS
 .DS_Store
+.vscode/
 
 # Private signing material
 *.p12
